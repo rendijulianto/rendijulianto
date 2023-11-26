@@ -3,7 +3,7 @@
    
 <h2> Hi, I'm Rendi Julianto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.unikom.ac.id/">Universitas Komputer Indonesia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="https://www.kebutuhansosmed.com">Kebutuhan Sosmed</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Student at <a href="https://www.unikom.ac.id/">Universitas Komputer Indonesia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="https://www.kebutuhansosmed.com">Kebutuhan Sosmed</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
