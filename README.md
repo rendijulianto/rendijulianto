@@ -8,7 +8,7 @@
 
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-rendijulianto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rendijulianto/)](https://www.linkedin.com/in/rendijulianto/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/beliscript?label=follow&style=social)](https://github.com/rendijulianto)
+[![GitHub Thaiane](https://img.shields.io/github/followers/rendijulianto?label=follow&style=social)](https://github.com/rendijulianto)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
